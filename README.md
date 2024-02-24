@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @the-password-is-password
-- 👀 I’m interested in operating systems, primarily. However, I do like to explore around just for fun.
-- 🌱 I’m currently learning basic computer science principles, programming languages and whatever I can find to help me create (or at least contribute some addition to) an operating system.
+- 👋 Hi, I’m @dorfst
+- 👀 I’m always trying to improve my knowledge of computer science. Feedback is always welcome.
 
 <!---
 the-password-is-password/the-password-is-password is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
